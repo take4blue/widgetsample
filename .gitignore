@@ -1,0 +1,5 @@
+.metadata/
+bin/
+output/
+*.prg
+*.prg.debug.xml

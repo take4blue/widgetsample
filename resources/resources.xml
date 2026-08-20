@@ -1,0 +1,21 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <properties>
+        <property id="index" type="Number">0</property>
+    </properties>
+
+    <drawables>
+        <bitmap id="LauncherIcon" filename="drawables/launcher_icon.svg" dithering="none" />
+    </drawables>
+    
+    <strings>
+        <string id="AppName">environ</string>
+        <string id="ViewHeartRateLabel" scope="glance">Heart Rate</string>
+        <string id="ViewTempLabel" scope="glance">Temperature</string>
+        <string id="ViewPressureLabel" scope="glance">Pressure</string>
+        <string id="ViewElevationLabel" scope="glance">Elevation</string>
+        <string id="ViewOxygenLabel" scope="glance">SpO2</string>
+        <string id="ViewStressLabel" scope="glance">Stress</string>
+        <string id="ViewBodyBatteryLabel" scope="glance">BB</string>
+        <string id="PastLabel" scope="glance">Last $1$ Hours</string>
+    </strings>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string id="AppName">environ</string>
+	<string id="ViewHeartRateLabel" scope="glance">心拍</string>
+	<string id="ViewTempLabel" scope="glance">温度</string>
+	<string id="ViewPressureLabel" scope="glance">気圧</string>
+	<string id="ViewElevationLabel" scope="glance">標高</string>
+	<string id="ViewOxygenLabel" scope="glance">SpO2</string>
+	<string id="ViewStressLabel" scope="glance">ストレス</string>
+    <string id="ViewBodyBatteryLabel" scope="glance">BB</string>
+	<string id="PastLabel" scope="glance">過去$1$時間</string>
+</resources>
